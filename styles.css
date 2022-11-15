@@ -1,0 +1,29 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  color: hsl(218, 44%, 22%);
+  font-size: 15px;
+  font-family: verdana;
+}
+
+
+
+.line1 {
+  font-weight: 700;
+}
+
+.line2 {
+  font-weight: 400;
+  color: hsl(220, 15%, 55%)
+}
+
+.texty {
+  margin: 25px;
+}
+
+.qrcode {
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
